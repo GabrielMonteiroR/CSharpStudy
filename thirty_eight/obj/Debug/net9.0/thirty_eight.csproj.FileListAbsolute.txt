@@ -1,0 +1,14 @@
+C:\Users\gmont\OneDrive\Documents\Knowledge\Personal\C#\thirty_eight\bin\Debug\net9.0\thirty_eight.exe
+C:\Users\gmont\OneDrive\Documents\Knowledge\Personal\C#\thirty_eight\bin\Debug\net9.0\thirty_eight.deps.json
+C:\Users\gmont\OneDrive\Documents\Knowledge\Personal\C#\thirty_eight\bin\Debug\net9.0\thirty_eight.runtimeconfig.json
+C:\Users\gmont\OneDrive\Documents\Knowledge\Personal\C#\thirty_eight\bin\Debug\net9.0\thirty_eight.dll
+C:\Users\gmont\OneDrive\Documents\Knowledge\Personal\C#\thirty_eight\bin\Debug\net9.0\thirty_eight.pdb
+C:\Users\gmont\OneDrive\Documents\Knowledge\Personal\C#\thirty_eight\obj\Debug\net9.0\thirty_eight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmont\OneDrive\Documents\Knowledge\Personal\C#\thirty_eight\obj\Debug\net9.0\thirty_eight.AssemblyInfoInputs.cache
+C:\Users\gmont\OneDrive\Documents\Knowledge\Personal\C#\thirty_eight\obj\Debug\net9.0\thirty_eight.AssemblyInfo.cs
+C:\Users\gmont\OneDrive\Documents\Knowledge\Personal\C#\thirty_eight\obj\Debug\net9.0\thirty_eight.csproj.CoreCompileInputs.cache
+C:\Users\gmont\OneDrive\Documents\Knowledge\Personal\C#\thirty_eight\obj\Debug\net9.0\thirty_eight.dll
+C:\Users\gmont\OneDrive\Documents\Knowledge\Personal\C#\thirty_eight\obj\Debug\net9.0\refint\thirty_eight.dll
+C:\Users\gmont\OneDrive\Documents\Knowledge\Personal\C#\thirty_eight\obj\Debug\net9.0\thirty_eight.pdb
+C:\Users\gmont\OneDrive\Documents\Knowledge\Personal\C#\thirty_eight\obj\Debug\net9.0\thirty_eight.genruntimeconfig.cache
+C:\Users\gmont\OneDrive\Documents\Knowledge\Personal\C#\thirty_eight\obj\Debug\net9.0\ref\thirty_eight.dll
