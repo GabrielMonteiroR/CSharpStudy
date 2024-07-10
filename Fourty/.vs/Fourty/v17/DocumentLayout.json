@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gmont\\OneDrive\\Desktop\\StudyC#\\CSharpStudy\\Fourty\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{484828D8-6C4F-4860-A34E-259C899F3A21}|Fourty\\Fourty.csproj|c:\\users\\gmont\\onedrive\\desktop\\studyc#\\csharpstudy\\fourty\\fourty\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484828D8-6C4F-4860-A34E-259C899F3A21}|Fourty\\Fourty.csproj|solutionrelative:fourty\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484828D8-6C4F-4860-A34E-259C899F3A21}|Fourty\\Fourty.csproj|c:\\users\\gmont\\onedrive\\desktop\\studyc#\\csharpstudy\\fourty\\fourty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484828D8-6C4F-4860-A34E-259C899F3A21}|Fourty\\Fourty.csproj|solutionrelative:fourty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484828D8-6C4F-4860-A34E-259C899F3A21}|Fourty\\Fourty.csproj|c:\\users\\gmont\\onedrive\\desktop\\studyc#\\csharpstudy\\fourty\\fourty\\fourty.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{484828D8-6C4F-4860-A34E-259C899F3A21}|Fourty\\Fourty.csproj|solutionrelative:fourty\\fourty.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fourty",
+              "DocumentMoniker": "C:\\Users\\gmont\\OneDrive\\Desktop\\StudyC#\\CSharpStudy\\Fourty\\Fourty\\Fourty.csproj",
+              "RelativeDocumentMoniker": "Fourty\\Fourty.csproj",
+              "ToolTip": "C:\\Users\\gmont\\OneDrive\\Desktop\\StudyC#\\CSharpStudy\\Fourty\\Fourty\\Fourty.csproj",
+              "RelativeToolTip": "Fourty\\Fourty.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-09T13:17:43.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\gmont\\OneDrive\\Desktop\\StudyC#\\CSharpStudy\\Fourty\\Fourty\\model\\Person.cs",
+              "RelativeDocumentMoniker": "Fourty\\model\\Person.cs",
+              "ToolTip": "C:\\Users\\gmont\\OneDrive\\Desktop\\StudyC#\\CSharpStudy\\Fourty\\Fourty\\model\\Person.cs",
+              "RelativeToolTip": "Fourty\\model\\Person.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAADwvxoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:16:26.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gmont\\OneDrive\\Desktop\\StudyC#\\CSharpStudy\\Fourty\\Fourty\\Program.cs",
+              "RelativeDocumentMoniker": "Fourty\\Program.cs",
+              "ToolTip": "C:\\Users\\gmont\\OneDrive\\Desktop\\StudyC#\\CSharpStudy\\Fourty\\Fourty\\Program.cs",
+              "RelativeToolTip": "Fourty\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:15:19.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
