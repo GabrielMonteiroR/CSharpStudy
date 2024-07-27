@@ -1,6 +1,8 @@
 ﻿namespace AbstractClass.Entities.Enums;
 
-public class Color
+ enum Color
 {
-    
+    Black,
+    Blue,
+    Red
 }

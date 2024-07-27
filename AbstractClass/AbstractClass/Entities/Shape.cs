@@ -1,6 +1,15 @@
-﻿namespace AbstractClass.Entities;
+﻿using System.Drawing;
 
-public class Shape
+namespace AbstractClass.Entities;
+
+public abstract class Shape
 {
-    
+    public Color color { get; set; }
+
+    public Shape(Color color)
+    {
+        this.color = color;
+    }
+
+    public abstract double Area();
 }

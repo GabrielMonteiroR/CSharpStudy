@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Csharp\\CSharpStudy\\Iterface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6894FDA-F7EA-497D-8B5A-21CF9D230EF4}|Iterface\\Iterface.csproj|c:\\csharp\\csharpstudy\\iterface\\iterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6894FDA-F7EA-497D-8B5A-21CF9D230EF4}|Iterface\\Iterface.csproj|solutionrelative:iterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6894FDA-F7EA-497D-8B5A-21CF9D230EF4}|Iterface\\Iterface.csproj|c:\\csharp\\csharpstudy\\iterface\\iterface\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6894FDA-F7EA-497D-8B5A-21CF9D230EF4}|Iterface\\Iterface.csproj|solutionrelative:iterface\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6894FDA-F7EA-497D-8B5A-21CF9D230EF4}|Iterface\\Iterface.csproj|c:\\csharp\\csharpstudy\\iterface\\iterface\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6894FDA-F7EA-497D-8B5A-21CF9D230EF4}|Iterface\\Iterface.csproj|solutionrelative:iterface\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6894FDA-F7EA-497D-8B5A-21CF9D230EF4}|Iterface\\Iterface.csproj|c:\\csharp\\csharpstudy\\iterface\\iterface\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6894FDA-F7EA-497D-8B5A-21CF9D230EF4}|Iterface\\Iterface.csproj|solutionrelative:iterface\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarRental.cs",
+              "DocumentMoniker": "C:\\Csharp\\CSharpStudy\\Iterface\\Iterface\\Entities\\CarRental.cs",
+              "RelativeDocumentMoniker": "Iterface\\Entities\\CarRental.cs",
+              "ToolTip": "C:\\Csharp\\CSharpStudy\\Iterface\\Iterface\\Entities\\CarRental.cs",
+              "RelativeToolTip": "Iterface\\Entities\\CarRental.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAUwBoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T16:07:16.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Csharp\\CSharpStudy\\Iterface\\Iterface\\Entities\\Invoice.cs",
+              "RelativeDocumentMoniker": "Iterface\\Entities\\Invoice.cs",
+              "ToolTip": "C:\\Csharp\\CSharpStudy\\Iterface\\Iterface\\Entities\\Invoice.cs",
+              "RelativeToolTip": "Iterface\\Entities\\Invoice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T16:00:41.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Csharp\\CSharpStudy\\Iterface\\Iterface\\Entities\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Iterface\\Entities\\Vehicle.cs",
+              "ToolTip": "C:\\Csharp\\CSharpStudy\\Iterface\\Iterface\\Entities\\Vehicle.cs",
+              "RelativeToolTip": "Iterface\\Entities\\Vehicle.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T15:59:24.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Csharp\\CSharpStudy\\Iterface\\Iterface\\Program.cs",
+              "RelativeDocumentMoniker": "Iterface\\Program.cs",
+              "ToolTip": "C:\\Csharp\\CSharpStudy\\Iterface\\Iterface\\Program.cs",
+              "RelativeToolTip": "Iterface\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T15:55:07.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gmont\\source\\repos\\Dictionary\u0026SortedDictionary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C52B6CE-F915-4ACB-B9AE-858D47F84833}|Dictionary\u0026SortedDictionary\\Dictionary\u0026SortedDictionary.csproj|c:\\users\\gmont\\source\\repos\\dictionary\u0026sorteddictionary\\dictionary\u0026sorteddictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C52B6CE-F915-4ACB-B9AE-858D47F84833}|Dictionary\u0026SortedDictionary\\Dictionary\u0026SortedDictionary.csproj|solutionrelative:dictionary\u0026sorteddictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gmont\\source\\repos\\Dictionary\u0026SortedDictionary\\Dictionary\u0026SortedDictionary\\Program.cs",
+              "RelativeDocumentMoniker": "Dictionary\u0026SortedDictionary\\Program.cs",
+              "ToolTip": "C:\\Users\\gmont\\source\\repos\\Dictionary\u0026SortedDictionary\\Dictionary\u0026SortedDictionary\\Program.cs",
+              "RelativeToolTip": "Dictionary\u0026SortedDictionary\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:40:02.892Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
