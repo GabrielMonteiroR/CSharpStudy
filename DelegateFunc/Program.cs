@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Runtime.CompilerServices;
 using DelegateAction.Entities;
 
 namespace DelegateAction
@@ -14,14 +15,17 @@ namespace DelegateAction
             list.Add(new Product("Tablet", 350.50));
             list.Add(new Product("Hd Case", 80.90));
 
-            Action<Product> act = p => { p.Price += p.Price * 0.1; };
+// // <RECEBE,RETORNA>                     recebe      faz
+//             Func<Product,string> func = product => product.Name.ToUpper();
+//             //Se ja faz return nao precisa {}
 
-            list.ForEach(act);
+            List<string> result = list.Select(p => p.Name.ToUpper()).ToList();
 
-            foreach (Product product in list)
+            foreach (string item in result) 
             {
-                System.Console.WriteLine(product);
+                System.Console.WriteLine(item);
             }
+            
 
 
         }

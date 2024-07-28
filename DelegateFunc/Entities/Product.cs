@@ -16,11 +16,5 @@ namespace DelegateAction.Entities
             return Name + ", " + Price.ToString("F2");
         }
 
-        
-        public void UpdatePrice(Product p)
-        {
-            p.Price += p.Price * 0.1;
-        }
-
     }
 }
